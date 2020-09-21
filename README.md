@@ -10,4 +10,4 @@
 - c++、python等
 
 
-其中有关ml的部分以tf、paddle框架为主。
+其中有关ml、dl的部分以tf、paddle框架为主。
