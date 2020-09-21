@@ -31,7 +31,7 @@ Install scikit-image with:
 
 
 
-:::
+
 
 [xception模型下载地址](https://github.com/bonlime/keras-deeplab-v3-plus/releases/download/1.1/deeplabv3_xception_tf_dim_ordering_tf_kernels.h5)或者[此处](https://pan.baidu.com/s/1f6qOcMY0158yQhGgRFDAaw) 
 (提取码：xu8d)
@@ -40,7 +40,7 @@ Install scikit-image with:
 (提取码：ffbu)
 
 [more](https://ljoson.github.io/views/cs/Imagesegmentation.html#python%E5%AE%9E%E7%8E%B0)
-:::
+
 
 ## References
 1. Bonlime, Keras implementation of Deeplab v3+ with pretrained weights  https://github.com/bonlime/keras-deeplab-v3-plus
